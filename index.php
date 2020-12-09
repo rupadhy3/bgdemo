@@ -4,7 +4,7 @@
 <html>
 <!--<![endif]-->
   <head>
-    <title>Basic - PatternFly</title>
+    <title>Openshift - Application deployment demo</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" href="../dist/img/favicon.ico">
     <!-- iPad retina icon -->
@@ -38,7 +38,7 @@
           <span class="icon-bar"></span>
         </button>
         <a class="navbar-brand" href="/">
-          <img src="../dist/img/brand.svg" alt="PatternFly Enterprise Application" />
+          <img src="../dist/img/brand.svg" alt="Openshift Demo" />
         </a>
       </div>
       <div class="collapse navbar-collapse navbar-collapse-1">
@@ -62,7 +62,7 @@
             <li>Basic</li>
           </ol>
           <h1>Welcome to an OpenShift Application!</h1>
-          <p>The purpose of this application is to demonstrate several interesting features about OpenShift. We hope you enjoy it!</p>
+          <p>The purpose of this application is to demonstrate some interesting features about OpenShift - Jenkins Pipeline. Hope you enjoy it!</p>
         </div>
       </div>
       <div class="row">
@@ -88,9 +88,9 @@
           </table>
         </div>
         <div class="col-md-6 col-md-offset-3">
-          <h2>Application Example</h2>
+          <h2>Application Example Display</h2>
           <p>
-            <img src="bluerose.jpeg">
+            <img src="newyear.gif">
           </p>
         </div>
       </div>
