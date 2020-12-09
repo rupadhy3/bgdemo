@@ -89,6 +89,8 @@
         </div>
         <div class="col-md-6 col-md-offset-3">
           <h2>Application Example Display</h2>
+          <br>
+          <br>
           <p>
             <img src="newyear.gif">
           </p>
