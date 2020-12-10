@@ -72,7 +72,7 @@ spec:
                     script {
                       openshift.withCluster() {
                         openshift.withProject() {
-                          def app = openshift.newApp("php~https://github.com/rupadhy3/phpdemo.git")
+                          def app = openshift.newApp("phpdemo:latest", "--name=phpdemo")
                           app.narrow("svc").expose();
                           def dc = openshift.selector("dc", "phpdemo")
                           while (dc.object().spec.replicas != dc.object().status.availableReplicas) {
