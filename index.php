@@ -91,6 +91,7 @@
           <h2>Application Example Display</h2>
           <br>
           <br>
+          <br>
           <p>
             <img src="thanks.gif">
           </p>
