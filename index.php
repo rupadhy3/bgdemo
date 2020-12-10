@@ -92,7 +92,7 @@
           <br>
           <br>
           <p>
-            <img src="thanks.gif">
+            <img src="newyear.gif">
           </p>
         </div>
       </div>
