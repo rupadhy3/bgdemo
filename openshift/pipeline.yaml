@@ -12,7 +12,7 @@ spec:
       - type: GitHub
         github:
           secretReference:
-             name: "mysecert"
+             name: "mysecret"
       - type: Generic
         generic:
           secretReference:
