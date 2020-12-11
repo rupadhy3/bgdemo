@@ -11,10 +11,12 @@ spec:
     triggers:
       - type: GitHub
         github:
-          secret: "secret101"
+          secretReference:
+             name: "mysecert"
       - type: Generic
         generic:
-          secret: "secret101"
+          secretReference:
+             name: "mysecret"
     runPolicy: Serial
     source:
       type: None
